@@ -1,2 +1,4 @@
-# Project
-Rooftop Recognition Project
+# Rooftop Recognition
+## Enrico Castro Grespan
+
+Wolfram Summer School
